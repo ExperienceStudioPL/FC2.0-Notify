@@ -1,5 +1,5 @@
 # FC2.0-Notify
-Notify UI Based on FiveCity server Created By <b>[ExperienceStudio](https://discord.experiencestudio.pl/)</b>
+Notify UI Based on FiveCity server  <br>Created By <b>[ExperienceStudio](https://discord.experiencestudio.pl/)</b>
 <h1>Usage</h1>
 
 ```lua
